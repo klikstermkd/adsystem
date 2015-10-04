@@ -1,0 +1,30 @@
+html {
+   overflow-y: scroll;
+}
+
+h2 {
+   text-align: center; 
+   padding-bottom: 50px;
+}
+
+.table {
+   width: 50%; 
+   margin-left: auto; 
+   margin-right: auto;
+}
+
+form {
+   width: 50%; 
+   margin-left: auto; 
+   margin-right: auto; 
+   margin-bottom: 50px;
+}
+
+.control-buttons {
+   float: right;
+   margin-top: 15px;
+}
+
+i {
+   cursor: pointer;
+}
